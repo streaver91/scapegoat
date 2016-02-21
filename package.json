@@ -1,0 +1,26 @@
+{
+  "name": "scapegoat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streaver91/scapegoat.git"
+  },
+  "author": "Junhao Li <streaver91@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/streaver91/scapegoat/issues"
+  },
+  "homepage": "https://github.com/streaver91/scapegoat#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
